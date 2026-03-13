@@ -20,7 +20,7 @@
 - RAM: 16 GB
 ---
 ## Найденные баги(выборка из 5, всего 21)
-([остальные баги](https://docs.google.com/spreadsheets/d/1PNcf7BiFSncBYAdgVNAUm5TlDXl2Ybm8PKPfQubwfQg/edit?usp=sharing))
+([остальные баги](https://docs.google.com/spreadsheets/d/1vDXYC-6ciqTpxq_V2x4U17VG2L1DGVuOrdCnqWINpZQ/edit?usp=sharing))
 ### #1: Дюп патрон для дробовика "Пробудитель"
 - **Severity:** Critical
 - **Priority:** ASAP
